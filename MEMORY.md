@@ -39,13 +39,14 @@
 - Reddit/X automation DISABLED (ban risk)
 - Marketing must be transparent (no astroturfing)
 
-### VixPic Build Progress (2026-02-19)
-- **22 pages total** (build verified)
+### VixPic Build Progress (2026-02-20)
+- **25 pages total** (+3 alternative pages)
 - Landing page with pricing ($29/$59/$149)
 - 9 free tools (compress, resize, crop, convert, color-picker, blur-sharpen, watermark, background-remover, upscaler)
 - 4 use case pages (hub, e-commerce, social-media, thumbnails)
+- 3 alternative pages (hub, /midjourney, /dalle)
 - Generate page, Gallery, Settings
-- Next: Alternative/comparison pages, provider pages, style hub-spoke
+- Next: Provider pages, style hub-spoke, more alternatives
 
 ---
 
@@ -107,6 +108,72 @@ Before investing in development, every SaaS idea must pass ALL four:
 - 57 profession-specific guides = effective long-tail SEO approach
 - But deployment blockers can waste all that effort
 - Verify DNS/hosting before massive content investment
+
+---
+
+## Revenue-Backwards Marketing Framework (2026-02-21)
+
+### The 40/30/20/10 Budget Allocation
+
+| Channel | % Budget | Focus | Expected ROI |
+|---------|----------|-------|--------------|
+| Paid Search Conquesting | 40% | Competitor keywords, pricing searches | 3-5x |
+| LinkedIn High-Intent | 30% | Job title + company targeting | 2-4x |
+| CRO & Landing Pages | 20% | Conversion optimization | 5-10x |
+| Controlled Experiments | 10% | New channel tests | Variable |
+
+**Key insight:** Fixed monthly budgets ($1K-$5K) outperform percentage-based models for companies under $1M ARR.
+
+**Budget by ARR:**
+- $0-$500K: $1K-$2K/mo (validation)
+- $500K-$1M: $2K-$5K/mo (scaling)
+- $1M-$5M: $5K-$15K/mo (optimization)
+
+**Competitor Conquesting Keywords:**
+- "[competitor] pricing"
+- "[competitor] alternatives"  
+- "[competitor] vs [solution]"
+
+**Benchmarks:**
+- Average CPL Google Search: $181
+- Average CPL LinkedIn: $250-400
+- Target CAC payback: 60-90 days
+
+**Case Study:** TripMaster hit $504K Net New ARR at 650% ROI using this framework.
+
+---
+
+## Vertical SaaS Advantage (2026-02-21)
+
+### Why Vertical Beats Horizontal
+
+**The switching cost difference:**
+- Generic tools require customization
+- Vertical SaaS ships pre-configured for compliance, terminology, integrations
+- Creates switching costs horizontal competitors can't replicate
+
+**Examples of vertical dominance:**
+- Benchling → owns biotech R&D (speaks scientist language)
+- Talkdesk → wins contact centers (optimizes ignored metrics)
+- Celonis → "too niche" → now 99% of Fortune 500
+
+**VixPic Vertical Opportunities:**
+1. **E-commerce** — Product photos, lifestyle shots, A/B variants
+2. **Real Estate** — Virtual staging, listing photos
+3. **YouTube** — Thumbnails, channel art
+4. **Course Creators** — Module covers, social promos
+
+> "Are you building horizontal software that serves everyone, or vertical SaaS that owns one industry completely?"
+
+### The "Boring Business Paradox"
+
+Core business solutions (payroll, HR, project management) aren't flashy—but print cash:
+- Gusto: $735M revenue, profitable
+- BambooHR: $274M revenue, 26K customers
+- Calendly: $276M revenue, bootstrapped 7 years
+- Zapier: $5B valuation, ~$0 raised
+
+**Why boring wins:** Essential infrastructure attracts loyalty, 95%+ retention at scale, massive TAM, high switching costs.
 
 ---
 
@@ -816,4 +883,4 @@ Solo founders can now compete at scale because:
 
 ---
 
-*Last updated: 2026-02-19*
+*Last updated: 2026-02-21*
