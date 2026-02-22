@@ -883,4 +883,80 @@ Solo founders can now compete at scale because:
 
 ---
 
-*Last updated: 2026-02-21*
+## PLG Benchmarks 2026 (2026-02-22)
+
+### Free Model Conversion Rates (ProductLed, 600+ Companies)
+
+| Model | Visitor→Free | Free→Paid |
+|-------|--------------|-----------|
+| Freemium | **12%** | 9% |
+| Free Trial | 5% | 9% |
+
+**Key insight:** Freemium converts visitors 140% better, but both models convert to paid at 9%.
+
+### Conversion by Annual Contract Value
+
+| ACV Range | Free→Paid |
+|-----------|-----------|
+| $1K-$5K | **10%** (highest) |
+| $5K-$10K | 8% |
+| <$1K | 7% |
+| >$10K | 6% |
+
+### Product Qualified Leads (Untapped Opportunity)
+
+- Only 24% of companies use PQLs
+- PQL→Paid conversion: **25%** (vs 9% without)
+- ACV $5K-$10K with PQLs: **39% conversion**
+
+**What signals a PQL:**
+- Activation milestones reached
+- High-value feature usage
+- Team invitations sent
+- Integration installs
+- Usage thresholds crossed
+
+### The 98% Day-14 Problem (Amplitude 2025)
+
+> "For half of all products, more than 98% of new users are inactive two weeks after their first action."
+
+**Implications:**
+- Activation window is brutally short
+- Every friction point costs users
+- Quick "aha" moment is critical
+- Re-engagement sequences needed
+
+### VixPic PQL Signals (Define Before Launch)
+
+1. First image generated ← activation
+2. API key connected ← commitment
+3. Batch job run ← power user
+4. 10+ images created ← retained
+5. Gallery used ← invested
+
+---
+
+## Micro-SaaS Market Size 2026 (2026-02-22)
+
+**Market Growth:**
+- 2024: $15.7B
+- 2030: $59.6B (projected)
+- CAGR: ~30% annually
+
+**Founder Reality:**
+- 39% of SaaS founders are solo
+- Most spend <$1K before first revenue
+- Profitability: 1-2 years typical
+- Revenue range: $50K-$3M+ annually
+
+### 30-Day Validation Framework
+
+1. **Week 1-2:** Landing page → 20+ signups
+2. **Week 2-3:** 10-20 problem interviews
+3. **Week 3-4:** Discounted beta access
+
+> "People who pay (even $1) are 10x more valuable than free signups"
+
+---
+
+*Last updated: 2026-02-22*
