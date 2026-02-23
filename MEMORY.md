@@ -39,14 +39,67 @@
 - Reddit/X automation DISABLED (ban risk)
 - Marketing must be transparent (no astroturfing)
 
-### VixPic Build Progress (2026-02-20)
-- **25 pages total** (+3 alternative pages)
+### VixPic Build Progress (2026-02-22)
+- **29 pages total** (was 25)
 - Landing page with pricing ($29/$59/$149)
 - 9 free tools (compress, resize, crop, convert, color-picker, blur-sharpen, watermark, background-remover, upscaler)
 - 4 use case pages (hub, e-commerce, social-media, thumbnails)
-- 3 alternative pages (hub, /midjourney, /dalle)
+- 6 alternative pages complete (hub + Midjourney, DALL-E, Leonardo, Stable Diffusion, Adobe Firefly, Canva)
+- 4 provider pages (hub + OpenAI, Replicate, FAL)
 - Generate page, Gallery, Settings
-- Next: Provider pages, style hub-spoke, more alternatives
+- Next: Style hub-spoke, more free tools (target 20+)
+
+---
+
+## AI Micro-SaaS Validation Framework (2026-02-23)
+
+### Skills-Time-Capital Matrix (Pre-Build Check)
+
+Before building ANY AI micro-SaaS, pass all three:
+
+| Question | Pass Criteria |
+|----------|---------------|
+| Build MVP yourself in 2 weeks? | Yes, OR $2-5K for dev |
+| Reach 100 customers without ads? | Yes (existing audience) |
+| API cost under $0.10/action? | Yes, OR BYOK model |
+
+**Critical stat:** Most failed AI SaaS die because founders underestimate build time by 300%.
+
+> "68% of successful solo founders used AI primarily for development acceleration, not as the core product feature." — Freemius 2025
+
+**Translation:** AI as moat = risky. AI as dev accelerator = smart.
+
+### Competition Saturation Test
+
+Search "[your idea] AI tool" on Product Hunt/Twitter:
+
+| Competitors | Meaning |
+|-------------|---------|
+| 0-3 | Goldmine OR nobody wants this |
+| 4-12 | **Sweet spot** — validated, room to differentiate |
+| 15+ | Need killer distribution or hyper-niche |
+
+**Red flag:** If top 3 raised funding, they can outlast you financially.
+
+### The API Cost Trap
+
+Most AI SaaS fail because: API costs > subscription price
+
+**Example:** AI video editor. OpenAI = $3/video. Charged $5. Math doesn't work.
+
+**Why VixPic wins:** BYOK transfers inference costs to user. Our marginal cost = ~$0.
+
+### Coordination vs Creation Pattern
+
+> "Best AI micro-SaaS from 2025 solved coordination problems, not creation problems."
+
+| Saturated (7-8/10) | Underserved (2-4/10) |
+|--------------------|----------------------|
+| AI writers | AI curriculum generators |
+| AI image generators | AI meeting schedulers |
+| AI content tools | AI workflow coordinators |
+
+**VixPic positioning:** Not "AI image creation" (saturated). Instead: "AI image infrastructure/coordination" — we orchestrate user's providers.
 
 ---
 
