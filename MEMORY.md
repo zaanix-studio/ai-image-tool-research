@@ -883,6 +883,96 @@ Solo founders can now compete at scale because:
 
 ---
 
+## Programmatic SEO Playbook for SaaS (2026-02-24)
+
+### The 6 High-Impact pSEO Page Types
+
+| Page Type | Conversion Rate | Example | Traffic Potential |
+|-----------|-----------------|---------|-------------------|
+| Integration Pages | High (BOFU) | "[Your Tool] + [App]" | Zapier: 4.8M monthly visitors |
+| Comparison Pages | 10-20% | "[You] vs [Competitor]" | Gusto: 800+ visits/page/month |
+| Alternatives Pages | High intent | "[Competitor] alternatives" | Intercept competitor traffic |
+| Versus Pages | 10-20% | "X vs Y" (even if not you) | Neutral comparisons rank well |
+| Template Libraries | Medium | "[Category] templates" | Canva: 120M visitors via templates |
+| Free Tool Pages | High intent | "[Task] calculator" | HubSpot: 10M+ monthly organic |
+
+### Integration Pages (Zapier Model)
+
+**Why it works:** Users don't search "automation platform" — they search specific app combos like "Slack + Google Calendar integration."
+
+**Key elements:**
+- Overview of what the integration enables
+- Popular workflows/use cases
+- Triggers/actions supported
+- Clear CTA to start using it
+
+**Case study:** Hospitality middleware built 1,700+ integration pages → 18K sessions/year, 40% of all SEO-driven demos, 72% boost in demo requests within one month.
+
+### Comparison Pages (Gusto/Podia Model)
+
+**Structure (from Gusto):**
+1. Side-by-side feature table
+2. "What to consider when choosing" section
+3. Detailed feature descriptions
+4. Trust signals (testimonials, ratings)
+5. FAQs addressing doubts
+6. Strong CTA
+
+**Podia approach:** 20+ competitor comparison pages, including videos. Key: be honest and comprehensive, not just a sales pitch.
+
+### Alternatives Pages (Competitor Traffic Capture)
+
+**Formula:** "Best [Competitor] Alternatives for 2025" - listicle style, 5-10 options
+
+**Pro tip:** Include the competitor as last option ("still viable, but if you're here..."). This feels comprehensive and lets you use their name naturally throughout.
+
+**Position yourself prominently** as first alternative, highlight competitor's weaknesses your product addresses.
+
+### The Hub-and-Spoke Content Architecture
+
+**How it works:**
+- Hub (pillar): Comprehensive guide on broad topic
+- Spokes: Focused articles on subtopics (10-30 per hub)
+- Internal links: Every spoke → hub, hub → all spokes, spokes → related spokes
+
+**Why Google rewards this:** Topical authority > individual page optimization. One article vs. 10,000-page content library loses. But 15-spoke cluster on same topic signals deep expertise.
+
+### Keyword Prioritization Matrix (SaaS SEO)
+
+| Factor | Weight | Scoring |
+|--------|--------|---------|
+| Conversion intent | 30% | BOFU=10, MOFU=6, TOFU=3 |
+| Keyword difficulty | 25% | KD 0-10=10, KD 11-30=7, KD 31-60=4, KD 61+=1 |
+| Search volume | 20% | Relative to niche |
+| Content gap | 15% | Weak competitors=10, Strong SERP=3 |
+| Business relevance | 10% | Direct fit=10, Tangential=5 |
+
+**Key insight:** BOFU keywords (alternatives, vs, pricing) drive 40-60% of organic SaaS conversions despite lower volume.
+
+### Content Type Conversion Rates
+
+| Content Type | Conversion Rate | Volume |
+|--------------|-----------------|--------|
+| Comparison/Alternative Pages | 10-20% | Low-medium |
+| Programmatic Pages | Varies | Very high |
+| Educational Guides | 1-5% | High |
+| Data-Driven Content | Link building | Medium |
+| Feature/Use Case Pages | Commercial intent | Medium |
+
+### VixPic Application
+
+**Current pSEO pages:** Alternatives (6), Providers (4), Use Cases (4), Free Tools (9)
+
+**Expansion opportunities:**
+1. **Style pages** (hub-spoke) — /styles → /styles/anime, /photorealistic, etc.
+2. **Workflow pages** — "how to [task] with AI"
+3. **Model comparison pages** — "DALL-E 3 vs Midjourney 6"
+4. **Industry pages** — "AI images for real estate/ecommerce/gaming"
+
+**Target:** Each page type adds another traffic capture layer.
+
+---
+
 ## Micro-SaaS Speed Benchmarks (2026-02-19)
 
 ### Build Time vs Revenue (Starter Story Data)
