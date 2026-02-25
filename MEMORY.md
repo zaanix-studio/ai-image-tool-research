@@ -1102,4 +1102,132 @@ Solo founders can now compete at scale because:
 
 ---
 
-*Last updated: 2026-02-22*
+## SaaS Market Benchmarks 2026 (2026-02-25)
+
+### Market Size & Spend (Zylo SaaS Management Index)
+
+| Metric | Value |
+|--------|-------|
+| Global SaaS market (2026) | $465B |
+| CAGR through 2034 | 13.32% |
+| Avg org SaaS spend | $55.7M annually |
+| Avg SaaS apps per company | 305 |
+| SaaS renewals as % of spend | 87% |
+
+**Key shift:** App counts flat (-0.07% YoY) but spend up 8% YoY — pricing, not volume, driving costs.
+
+### AI Pricing Revolution
+
+- AI-native SaaS spending up **108% YoY**
+- 41% of SaaS companies now monetizing AI
+- Monetization breakdown:
+  - 53% subscription
+  - 31% hybrid
+  - 11% usage-based
+  - 5% outcome-based
+- By 2027: 70% of top vendors will offer consumption-based pricing (Gartner)
+
+### The Pricing Volatility Crisis
+
+| Stat | % of IT Leaders |
+|------|-----------------|
+| Price increases at renewal | 79% |
+| Unexpected costs after contract | 77% |
+| Surprise consumption/AI charges | 78% |
+| Forced to cut projects due to costs | 61% |
+
+**VixPic Positioning Opportunity:** BYOK = anti-volatility. 77% experiencing surprise costs = massive pain point we solve. LTD counters renewal fatigue.
+
+### Churn Benchmarks 2026
+
+| Metric | Value |
+|--------|-------|
+| Median gross revenue retention | ~90% |
+| Upper quartile NRR | 108-116% |
+| Lower quartile NRR | 78% |
+| License utilization (improved) | 54% |
+| Avg license waste per org | $19.8M |
+
+---
+
+## Build-in-Public Operating System (2026-02-25)
+
+### The Ship → Prove → Teach Loop
+
+Every week:
+1. **Ship:** Visible improvement with clear user outcome
+2. **Prove:** Show evidence (metrics, before/after, customer quotes)
+3. **Teach:** Explain learnings so audience benefits even without buying
+
+### Distribution Per Ship (5-Part System)
+
+1. One "source of truth" post (blog) — designed for search
+2. 3-5 derivative posts (social) — point back to source
+3. One customer email — outcome-focused, not release notes
+4. One sales enablement snippet — demo timestamp, objection handling
+5. (Backlog becomes always-on acquisition engine)
+
+### Three Feedback Layers
+
+| Layer | Who | How |
+|-------|-----|-----|
+| Public | Anyone | Posts that surface objections |
+| Insider | Early access group | Quick testing of changes |
+| Customer | Paid users | In-app prompts tied to events |
+
+### Feedback Prioritization Rubric
+
+| Criteria | Question |
+|----------|----------|
+| Severity | How painful today? |
+| Frequency | How often occurs? |
+| Reach | How many accounts benefit? |
+| Confidence | Evidence or opinions? |
+
+### Public Roadmap Format (Transparency Without Risk)
+
+- **Now:** What's shipping this week + measurable outcome goal
+- **Next:** What's coming soon, phrased as user problems
+- **Later:** Themes and bets, not commitments
+
+### EEAT-Compliant Founder Post Structure
+
+1. Clear claim ("We reduced setup time")
+2. Method (what changed)
+3. Evidence (before/after metrics)
+4. Limitation (what's still not solved)
+5. Next action (what we're testing)
+
+> "Build-in-public works best when you treat content as a system that improves product-market fit, not just a megaphone for announcements."
+
+---
+
+## SaaS Marketing Patterns 2026 (2026-02-25)
+
+### Precision Targeting (Small SaaS Case Study)
+
+- Problem: Generic outreach, underwhelming returns
+- Solution: Buyer intent focus, segmentation, rapid follow-up
+- Results: Lead volume +450%, revenue +72%, conversion 1% → 9%
+
+### Paid + Organic Synergy
+
+- Combine paid search, LinkedIn, SEO, ABM simultaneously
+- Organic leads +190% when channels coordinated
+- Key: Channels share goals and buyer insights
+
+### SEO-Led Growth
+
+- Heavy SEO investment: technical fixes + high-intent keywords
+- Result: Organic traffic 10x in under a year
+- Key: SEO as strategic engine, not afterthought
+
+### Three Cross-Cutting Lessons
+
+1. **Know buyer inside out** — specificity beats generic
+2. **Combine channels** — no silos, coordinated momentum
+3. **Track metrics that matter** — qualified leads > vanity numbers
+
+---
+
+*Last updated: 2026-02-25*
