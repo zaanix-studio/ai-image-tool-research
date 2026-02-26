@@ -1230,4 +1230,149 @@ Every week:
 
 ---
 
-*Last updated: 2026-02-25*
+## SaaS Valuation Multiples 2026 (2026-02-26)
+
+### Private Lower Middle Market Brackets
+
+| Enterprise Value | EV/Revenue | EBITDA Multiple |
+|------------------|------------|-----------------|
+| $5M-$10M | 3-4x | 8-11x |
+| $10M-$25M | 4-5x | 10-13x |
+| $25M-$50M | 5-7x | 12-16x |
+
+**Public SaaS:** 6-7x median (back to 2015-2016 levels after 2021 peak of 18.6x)
+
+**Bootstrapped vs VC-backed:**
+- Bootstrapped: ~4.8x median
+- VC-backed: ~5.3x median
+- Gap is growth rate, not quality
+
+### Premium Multiple Drivers (7-9x Revenue)
+
+1. **Rule of 40** (most predictive)
+   - Growth rate + EBITDA margin ≥ 40%
+   - Above 50% with NRR >120% = 7x+ revenue
+   - Below 40% = 3-4x revenue
+
+2. **Net Revenue Retention**
+   - NRR <90%: ~1.2x
+   - NRR 100-110%: ~6x
+   - NRR >120%: 8x+
+   - Nonlinear above 110%
+
+3. **Vertical Specialization**
+   - 25-30% premium over horizontal
+   - "System of record" = highest premiums
+   - Embedded fintech: 30-40% revenue at 40-60% margins
+
+> "The difference between 4x and 7x on $10M ARR = $30M enterprise value."
+
+---
+
+## Updated SaaS Metrics Benchmarks (2026-02-26)
+
+### Growth & Retention
+
+| Metric | Benchmark |
+|--------|-----------|
+| Median growth ($1M-$30M ARR) | 26% |
+| Top performer growth | 40-50% |
+| Median NRR | 106% |
+| Best-in-class NRR | 120-130% |
+| GRR target | 85-95% |
+| Annual churn (B2B) | 3.5% |
+
+### Unit Economics
+
+| Metric | Benchmark |
+|--------|-----------|
+| LTV:CAC (new standard) | 4:1 (was 3:1) |
+| CAC payback (early-stage) | 8-12 months |
+| CAC payback (mid-stage) | 15-18 months |
+| Gross margin target | 75%+ |
+| Gross margin median | 77% |
+
+### Efficiency
+
+| Metric | Benchmark |
+|--------|-----------|
+| ARR per employee (median) | $129,724 |
+| ARR per employee (target) | $150K-$250K |
+| $50M-$100M ARR bracket | $200K/employee |
+
+**Key insight:** Bootstrapped outperforms VC-backed on ARR/employee at every level.
+
+---
+
+## Starter Story Exit Pattern (2026-02-26)
+
+### The Playbook
+
+Pat Walls bootstrapped Starter Story from 2017 to HubSpot acquisition in 2026:
+
+**Growth:**
+- 4K+ founder interviews
+- 800K YouTube subscribers
+- 275K newsletter subscribers
+- 1.6M total followers
+- 10K+ paid members
+- Multi-million dollar revenue
+- Team of 3 (Pat, sister/COO, producer)
+
+**How It Happened:**
+1. Tweeted "hubspot should acquire starter story" (Sept 2025)
+2. Tweet → conversation → offer → acquisition
+3. Now part of HubSpot Media (The Hustle, My First Million, Mindstream)
+
+**HubSpot Media Stats:**
+- YouTube leads up 68% YoY
+- Newsletter leads up 53% YoY
+- 2.9M combined YouTube (>Morning Brew, 2x Salesforce)
+
+**Key Lessons:**
+1. Content compounds into acquisition-worthy assets
+2. Video/YouTube > SEO for modern acquisition
+3. Public pitching can actually work
+4. 3-person team can build 7-8 figure media business
+
+> "The SEO ship is sinking. HubSpot needs to pivot way harder to video, specifically YouTube." — Pat Walls
+
+---
+
+## Micro-SaaS Build Paths 2026 (2026-02-26)
+
+### Three Approaches
+
+1. **Custom-Coded SaaS**
+   - Complex apps, hire developers
+   - Marketing site separate from product
+   - Higher complexity, higher ceiling
+
+2. **WordPress WaaS (Website as a Service)**
+   - "Websites for [Industry]" subscription
+   - Template + hosting + support bundle
+   - Lower complexity, recurring revenue
+
+3. **Vertical AI Tools**
+   - Niche-specific (not generic AI)
+   - Deep industry integration
+   - Higher switching costs
+
+### Hot Categories
+
+**AI-Powered:**
+- Content repurposing (1→10 posts)
+- Niche generators (real estate, legal)
+- Deep-integration support bots
+- Vertical image/video analyzers
+
+**Vertical SaaS:**
+- Industry-specific CRM
+- Compliance automation
+- Workflow tools for regulated industries
+
+**Pattern:** Vertical > Horizontal. Niche dominance > broad competition.
+
+---
+
+*Last updated: 2026-02-26*
