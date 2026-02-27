@@ -1375,4 +1375,61 @@ Pat Walls bootstrapped Starter Story from 2017 to HubSpot acquisition in 2026:
 
 ---
 
-*Last updated: 2026-02-26*
+## Distribution as Last Moat (2026-02-27)
+
+### The Core Thesis
+
+> "When building products gets easier and cheaper every month, the competitive advantage shifts entirely to who has the strongest relationship with the buyer before they're in market."
+
+**Why Now:**
+- AI commoditized product building (MVP in days)
+- SEO declining (AI chatbots handling queries)
+- Ad costs rising (old playbook breaking)
+- Owned distribution = moat; Rented traffic = liability
+
+### HubSpot's Playbook (Validated by $Billion+ Company)
+
+| Acquisition | Asset Type | Why It Works |
+|-------------|-----------|--------------|
+| The Hustle | Newsletter | Daily touchpoint with founders |
+| My First Million | Podcast | Deep engagement, trust building |
+| Starter Story | YouTube + Community | Visual + 10K paid members |
+
+**Result:** 2.9M YouTube subs, leads up 68% YoY, 50M+ monthly engagements
+
+**Key insight:** HubSpot isn't buying content—they're buying trusted relationships with future customers.
+
+### Four Rules for Indie Founders
+
+1. **Build audience before you need it** — Distribution takes longer than product
+2. **Go deep on one channel** — Starter Story won with long-form founder interviews, not spreading thin
+3. **Own your distribution** — Newsletter/YouTube > SEO/Ads (75% of Starter Story revenue = products to owned audience)
+4. **Serve the audience your customers come from** — Not broadest possible
+
+### Micro-SaaS Proof Points
+
+Real examples showing niche depth > market width:
+
+| Product | MRR | Model |
+|---------|-----|-------|
+| CottageKeeper | $4K | 120 customers × $350/mo |
+| DocuSketch | $90K | 3D floor plans for insurance (founder was adjuster) |
+| ChurchDesk | €22K | CRM for European churches |
+| Hypefury | $70K | Twitter scheduler, built in 6 weeks |
+
+**Validation timeline:** Average 38 days to first dollar. 40% launched on no-code.
+
+### VixPic Application
+
+**Immediate priorities:**
+1. Start building owned audience NOW (before product "perfect")
+2. Pick one channel and go deep (YouTube tutorials? Newsletter?)
+3. Consider vertical positioning:
+   - VixPic for Etsy sellers
+   - VixPic for real estate photos
+   - VixPic for YouTube thumbnails
+4. Long-form content for each vertical builds distribution moat
+
+---
+
+*Last updated: 2026-02-27*
