@@ -1432,4 +1432,84 @@ Real examples showing niche depth > market width:
 
 ---
 
-*Last updated: 2026-02-27*
+## AI Pricing & Monetization Framework (2026-02-28)
+
+### BVP's Three Charge Metrics for AI Products
+
+| Metric | Best For | Trade-off |
+|--------|----------|-----------|
+| **Consumption** (per token/API call) | Technical buyers | Predictable margins, confusing for non-devs |
+| **Workflow** (per completed task) | Discrete tasks | More cost variability, clearer value |
+| **Outcome** (per successful result) | Confident AI | Max cost risk, perfect value alignment |
+
+**Pattern:** Moving from consumption → workflow → outcome = accepting more cost risk for tighter value alignment.
+
+### 7 Guiding Principles (BVP)
+
+1. **Price ties to value delivered, not access** — Abandon seat-based
+2. **Hybrid models win** — Base subscription + usage tiers
+3. **Account for inference costs** — AI margins 50-60% vs 80-90% SaaS
+4. **AI reimagines budgets** — AI spend alongside IT, not replacing
+5. **New success metrics** — Time to prototype, % autonomous work
+6. **Pricing shapes entire GTM** — No longer back-office decision
+7. **AI = co-workers, not tools** — Price for outcomes, not access
+
+### AI COGS Reality Check
+
+> "When you receive $10 from the customer, you can't just spend 10 cents on AWS. GPUs are expensive." — Jacob Jackson (Supermaven/Cursor)
+
+**VixPic BYOK Advantage:** BYOK transfers 100% of inference costs to user. Our marginal cost = ~$0. This is why BYOK works.
+
+---
+
+## Software Pricing Playbook 2026 (Golden Door)
+
+### 4 Ironclad Laws of B2B SaaS Pricing
+
+1. **Pricing Is Never Done** — Revisit 2x/year minimum
+2. **Data-Light ≠ Data-Free** — Comparable products always exist
+3. **Cross-functional Input Critical** — Sales, Product, Finance, Marketing, CS
+4. **Money = Tip of Iceberg** — Packaging, positioning, segmentation matter equally
+
+### BVP Pricing Archetypes
+
+| Archetype | ACV | Market | Strategy |
+|-----------|-----|--------|----------|
+| **Mouse** | Low | Emerging | Volume, self-serve |
+| **Gnome** | Low | Mature | Efficiency, PLG |
+| **Elephant** | High | Emerging | Sales, education |
+| **Godzilla** | High | Mature | Differentiation, expansion |
+
+**VixPic = Gnome** (Low ACV $29-149, mature market) → Focus on PLG efficiency.
+
+### Key Benchmarks 2026
+
+- **32%** avg revenue lift from pricing optimization
+- **140%** best-in-class NDR for hybrid models
+- **61%** of SaaS have usage-based component
+- **3.2x** higher expansion revenue usage-based vs flat-rate
+
+### Pricing Discovery Method
+
+> "Start with a price. If customers say 'sold' immediately, you're too cheap. Raise until you hear 'we have to think about that.'" — BVP
+
+---
+
+## Micro SaaS 2026 Stats
+
+- Market: $15.7B (2024) → $59.6B (2030) = ~30% annual growth
+- 39% of SaaS founders are solo
+- 70%+ profit margins typical (bootstrapped)
+- Most spend <$1K before first revenue
+
+### 30-Day Validation Framework
+
+1. **Week 1-2:** Landing page → 20+ signups or pivot
+2. **Week 2-3:** 10-20 problem interviews (understand, don't pitch)
+3. **Week 3-4:** Discounted beta → measure real payment commitment
+
+**Key:** Paying $1 = 10x more valuable than free signup.
+
+---
+
+*Last updated: 2026-02-28*
