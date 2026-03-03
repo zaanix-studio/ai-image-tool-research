@@ -99,6 +99,108 @@ Most AI SaaS fail because: API costs > subscription price
 | AI image generators | AI meeting schedulers |
 | AI content tools | AI workflow coordinators |
 
+---
+
+## Build in Public Framework (2026-03-02)
+
+Not a branding stunt—a **distribution and learning engine**.
+
+### The Four Content Pillars
+
+| Pillar | What to Share | Why It Works |
+|--------|---------------|--------------|
+| Decision Logs | "We chose X over Y, here's the tradeoff" | Attracts operators who value reasoning |
+| Behind-the-Scenes Demos | Walkthroughs including clunky parts | Invites specific feedback |
+| Customer-Proof Snapshots | Anonymized before/after metrics | Operational outcomes > vanity |
+| Experiment Write-ups | Hypothesis, setup, results, next steps | Shows intellectual honesty |
+
+### The Competitor Objection
+> "Doesn't build in public copy your roadmap?"
+
+Competitors can copy features; they can't copy timing, customer insight, execution quality, and trust. Share outcomes and user problems > exact implementation.
+
+### Community Building Funnel
+1. **Read** → Post that teaches one clear lesson
+2. **Respond** → Single question with constrained options
+3. **Enter** → Friction-light CTA (waitlist, template, 15-min review)
+
+Track: Qualified replies per post + Repeat contributors (correlates with pipeline quality)
+
+### Guardrails
+- Privacy-first (anonymize, aggregate, get permission)
+- Security-aware (principles > exploitable specifics)  
+- Accuracy over speed (credibility compounds)
+- Document ethics (publish transparency policy)
+
+---
+
+## 2026 SaaS Marketing Benchmarks (2026-03-02)
+
+### Customer Acquisition
+
+| Metric | Value |
+|--------|-------|
+| Median CAC ratio | $2.00 per $1 ARR (+14% from 2023) |
+| CAC payback (median) | 23 months |
+| Referral CAC | $150 |
+| SEO CAC | $480-942 → $290 long-term |
+| Paid search CAC | $802 |
+| Outbound sales CAC | $1,980 |
+
+### The Funnel Bottleneck
+
+| Stage | Conversion |
+|-------|------------|
+| Visitor → Lead | 2.3% (top >10%) |
+| Lead → MQL | 31% |
+| **MQL → SQL** | **13%** (biggest bottleneck) |
+| SQL → Opportunity | 30-59% |
+| Opportunity → Customer | 22-30% |
+
+**Critical:** SEO leads = 51% MQL→SQL vs 26% for PPC.
+
+### Trial Conversions
+
+| Type | Rate |
+|------|------|
+| Opt-out (card required) | 49-60% |
+| Opt-in (no card) | 18-25% |
+| 7-day trials | 40.4% |
+| 61+ day trials | 30.6% |
+
+Shorter trials convert better.
+
+### Retention Reality
+
+| Metric | Value |
+|--------|-------|
+| Median NRR | 106% (top >120%) |
+| High NRR growth advantage | 2.5x faster |
+| Expansion ARR share | 40% of new ARR |
+| 75% of companies | Reported declining retention 2024 |
+
+### Content Performance
+
+| Tactic | Impact |
+|--------|--------|
+| SEO ROI | 702% (7mo break-even) |
+| Organic search revenue share | 44.6% |
+| 9+ posts/month | +35.8% traffic |
+| Original research | +29.7% traffic |
+| Free tools | +35.6% traffic |
+| Long-form (2000+ words) | +56% leads |
+| Comparison pages ("A vs B") | 3.2x conversion |
+
+### Channel ROI
+
+| Channel | ROI |
+|---------|-----|
+| Email | 3600-4000% (£36-40 per £1) |
+| LinkedIn Ads | 113% |
+| Google Ads | 78% |
+
+Average B2B journey: 211 days, 76 touches.
+
 **VixPic positioning:** Not "AI image creation" (saturated). Instead: "AI image infrastructure/coordination" — we orchestrate user's providers.
 
 ---
@@ -1512,4 +1614,100 @@ Real examples showing niche depth > market width:
 
 ---
 
-*Last updated: 2026-02-28*
+## Starter Story → HubSpot Acquisition (2026-03-03)
+
+**Pat Walls sold Starter Story to HubSpot** — a bootstrapped "overnight success" that took 8 years.
+
+### The Build-in-Public Exit Playbook
+
+**Timeline:**
+- Started as side project in Starbucks before work
+- Years of flat growth, invisible work (outreach, editing, publishing)
+- Crossed "a few thousand dollars/month" → went full-time
+- Hit burnout, moved home, took road trip to think
+- Came back and **doubled down on what was already working**
+- Crossed $1M ARR (bootstrapped, profitable)
+- Pivoted to video → YouTube channel hit 778K subscribers
+- Tweeted "HubSpot should acquire Starter Story" (Sep 2025)
+- Closed the deal (Feb 2026)
+
+**Final Stats:**
+- 1.6M total followers
+- 250K newsletter subscribers
+- 10K+ paid members
+- Multi-million dollar annual revenue
+- 365 videos, 778K YouTube subscribers
+
+### Key Lessons for VixPic
+
+1. **Video is critical for 2026** — Pat's YouTube pivot was the inflection point
+2. **Compounding beats pivoting** — He doubled down on publishing, not chasing new ideas
+3. **8 years of showing up** — "Most overnight successes take about 8 years"
+4. **Owned audience = acquisition target** — HubSpot bought the audience, not the tech
+5. **The quiet decisions matter** — "Choosing not to quit when the graph is flat"
+
+> "The decisions that matter most rarely feel cinematic when you're making them."
+
+---
+
+## 2026 SaaS Metrics Benchmarks (Updated March)
+
+### Growth Reality
+
+| Metric | 2026 Benchmark |
+|--------|----------------|
+| Median growth rate | 26% |
+| Top performers | 40-50% |
+| Bootstrapped median | 23% |
+| VC-backed median | 25% |
+
+**Shift:** Sustainable growth valued higher than hypergrowth with terrible unit economics.
+
+### Retention (The New Growth)
+
+| Metric | Target | Best-in-Class |
+|--------|--------|---------------|
+| NRR | 106% | 120-130% |
+| GRR | 85-95% | 90%+ |
+| Monthly churn | <1% | <0.25% |
+| Annual churn | <5% | <3% |
+
+**Critical stat:** Companies with NRR >100% grow 1.5-3x faster. Existing customers now generate 40% of new ARR (50%+ above $50M ARR).
+
+> "Below 85% GRR and your expansion revenue is just putting a band-aid on a gunshot wound."
+
+### Unit Economics
+
+| Metric | 2026 Standard |
+|--------|---------------|
+| LTV:CAC ratio | **4:1** (up from 3:1) |
+| CAC payback (early-stage) | 8-12 months |
+| CAC payback (mid-stage) | 15-18 months |
+| CAC payback (enterprise) | 20-24 months |
+| Gross margin target | 75%+ |
+| Best-in-class margin | ~90% |
+
+**CAC rose 14%** while growth slowed — efficiency squeeze separates survivors.
+
+### Operational Efficiency
+
+| ARR Stage | Revenue per Employee |
+|-----------|---------------------|
+| $1-3M | ~$100K |
+| $20-50M | ~$175K |
+| $50-100M | ~$200K |
+| 2026 target | $150K-$250K |
+
+**Bootstrap advantage:** Higher revenue per employee at every ARR level (forced efficiency from day one).
+
+### VixPic Benchmarks to Hit
+
+For a bootstrapped LTD tool converting to SaaS:
+- Target 75%+ gross margin (BYOK = near 100%)
+- CAC payback under 12 months (PLG = critical)
+- GRR above 85% before scaling acquisition
+- Build owned audience (the real moat)
+
+---
+
+*Last updated: 2026-03-03*
